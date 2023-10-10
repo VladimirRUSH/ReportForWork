@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="09d56adb-adca-4545-9f07-d78cbeaef072">
+  <name>ПланГрафикВыполненныхРабот</name>
+  <synonym>
+    <key>ru</key>
+    <value>План график выполненных работ</value>
+  </synonym>
+</mdclass:CommonTemplate>
